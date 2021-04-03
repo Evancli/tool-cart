@@ -1,4 +1,4 @@
-![Tool Cart](Images/tool_cart_01)
+![Tool Cart](Images/tool_cart_01.jpg)
 
 # Tool Cart
 More info [here](https://evanli.com/adam-savage-inspired-tool-cart/)
